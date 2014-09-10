@@ -3,7 +3,7 @@
 # this takes a simple csv of time-series data and applies a 2nd or 3rd order polynomial fit.
 # useful for "detrending" astronomical time series data before processing.
 #
-# Ray Sanders - info@dearastronomer.com
+# Ray Sanders - rjs@raymondjsanders.com
 #
 import pprint
 import os
