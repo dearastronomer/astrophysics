@@ -1,7 +1,7 @@
 #chartcsv.py
 #plots graphs from time series or folded phase data
 #see test.csv for format of data file
-#Ray Sanders - info@dearastronomer.com
+#Ray Sanders - rjs@raymondjsanders.com
 #
 #importing the required libraries
 # coding: utf-8
